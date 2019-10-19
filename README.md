@@ -1,2 +1,7 @@
 # cs320-final-project
-Final project for CS320 with Derek, William, and Daniel. Interactive map with pathfinding.
+Interactive map of Washington State University Vancouver with pathfinding for the shortest route between two points.
+
+# Group members:
+Daniel Brown
+Derek Cheung
+William Harer
