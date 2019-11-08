@@ -5,3 +5,6 @@ Interactive map of Washington State University Vancouver with pathfinding for th
 Daniel Brown  
 Derek Cheung  
 William Harer
+
+# Project status:
+Design phase
