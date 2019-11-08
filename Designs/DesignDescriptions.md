@@ -75,6 +75,7 @@ The main attributes and operations for each class.
 ###### File name:
 
 pageStateDiagram.drawio
+pageStateDiagram.png
 
 ###### Title:
 
