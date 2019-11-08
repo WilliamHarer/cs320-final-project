@@ -94,6 +94,22 @@ Sequence diagram that depicts interaction between user, WSUV Map, and database t
 
 ###### File name:
 
+cardioSequenceDiagram.drawio
+
+cardioSequenceDiagram.png
+
+###### Title:
+
+Sequence Diagram: Cardio
+
+###### Description:
+
+Sequence diagram that depicts interaction between user, WSUV Map, and database to create a cardio route loop near a designated start point.
+
+------
+
+###### File name:
+
 pageStateDiagram.drawio
 
 pageStateDiagram.png
