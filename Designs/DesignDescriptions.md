@@ -20,7 +20,9 @@ The main page for information regarding how to use the tool, with links leading 
 
 ###### File name:
 
+NavigationPage.png
 
+NavigationPage.drawio
 
 ###### Title:
 
@@ -34,7 +36,7 @@ The Navigation page gives a short description of what the page is for and how to
 
 ###### File name:
 
-
+CardioRoutePage.pdf
 
 ###### Title:
 
@@ -48,7 +50,7 @@ The Cardio Route page will allow the user to calculate a route for their desired
 
 ###### File name:
 
-
+PointsOfInterestPage.pdf
 
 ###### Title:
 
