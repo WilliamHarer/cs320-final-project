@@ -4,7 +4,9 @@ List of Use Cases. If the **File name** field is blank, please fill in with the 
 
 ###### File name:
 
+LandingPage.png
 
+LandingPage.drawio
 
 ###### Title:
 
@@ -75,6 +77,7 @@ The main attributes and operations for each class.
 ###### File name:
 
 pageStateDiagram.drawio
+
 pageStateDiagram.png
 
 ###### Title:
