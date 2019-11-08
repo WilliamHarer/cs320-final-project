@@ -74,12 +74,12 @@ The main attributes and operations for each class.
 
 ###### File name:
 
-
+pageStateDiagram.drawio
 
 ###### Title:
 
-????
+State Diagram: Pages
 
 ###### Description:
 
-"Depending on the type of your system, you may design either sequence diagrams or statediagrams. Specifically, sequence diagrams are suitable for data-driven systems, and state diagrams are good for event-driven systems. Note that it is also possible to have both, becauseit might be possible that certain functionalities of your system is event-driven, but others aredata-driven."
+State diagram that depicts transitions between WSUV Map pages.
