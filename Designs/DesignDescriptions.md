@@ -1,9 +1,6 @@
 List of Use Cases. If the **File name** field is blank, please fill in with the name of the file when you create the diagram. If you can think of any other Use Cases, please feel free to add them.
 
-# Activity Diagrams
-## Swimlane
-
-------
+# Activity Diagrams (Swimlane)
 
 ###### File name:
 
@@ -59,11 +56,7 @@ Points of Interest Page
 
 The Points of Interest page will allow the user to search for and/or select a more specific location (e.g., restroom, vending machines, student services office).
 
-------
-
 # Structural Modeling
-
-------
 
 ###### File name:
 
@@ -77,11 +70,7 @@ Class Diagram
 
 The main attributes and operations for each class.
 
-------
-
 # Behavioral Modeling
-
-------
 
 ###### File name:
 
@@ -94,5 +83,3 @@ The main attributes and operations for each class.
 ###### Description:
 
 "Depending on the type of your system, you may design either sequence diagrams or statediagrams. Specifically, sequence diagrams are suitable for data-driven systems, and state diagrams are good for event-driven systems. Note that it is also possible to have both, becauseit might be possible that certain functionalities of your system is event-driven, but others aredata-driven."
-
-------
