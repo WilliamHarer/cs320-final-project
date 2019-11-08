@@ -76,6 +76,22 @@ The main attributes and operations for each class.
 
 ###### File name:
 
+navigationSequenceDiagram.drawio
+
+navigationSequenceDiagram.png
+
+###### Title:
+
+Sequence Diagram: Navigation
+
+###### Description:
+
+Sequence diagram that depicts interaction between user, WSUV Map, and database to route from a start point to a destination point.
+
+------
+
+###### File name:
+
 pageStateDiagram.drawio
 
 pageStateDiagram.png
