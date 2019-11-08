@@ -1,17 +1,98 @@
-Here, just put the name of the image, and the description fitting the image.
+List of Use Cases. If the **File name** field is blank, please fill in with the name of the file when you create the diagram. If you can think of any other Use Cases, please feel free to add them.
 
-------  
+# Activity Diagrams
+## Swimlane
+
+------
 
 ###### File name:
 
-exampleDiagram.png
+
 
 ###### Title:
 
-Example UI Use Case
+Landing Page
 
 ###### Description:
 
-The example UI and the use case in which an example person wants to do an example involving examples.
+The main page for information regarding how to use the tool, with links leading to the other pages. The page also links to the GitHub page with a more technical readme.
 
-------  
+------
+
+###### File name:
+
+
+
+###### Title:
+
+Navigation Page
+
+###### Description:
+
+The Navigation page gives a short description of what the page is for and how to use it. From here, users can select where they are and where they’d like to go, then calculate the shortest route.
+
+------
+
+###### File name:
+
+
+
+###### Title:
+
+Cardio Route Page
+
+###### Description:
+
+The Cardio Route page will allow the user to calculate a route for their desired form of cardio exercise (e.g., running, jogging, or biking).
+
+------
+
+###### File name:
+
+
+
+###### Title:
+
+Points of Interest Page
+
+###### Description:
+
+The Points of Interest page will allow the user to search for and/or select a more specific location (e.g., restroom, vending machines, student services office).
+
+------
+
+# Structural Modeling
+
+------
+
+###### File name:
+
+
+
+###### Title:
+
+Class Diagram
+
+###### Description:
+
+The main attributes and operations for each class.
+
+------
+
+# Behavioral Modeling
+
+------
+
+###### File name:
+
+
+
+###### Title:
+
+????
+
+###### Description:
+
+"Depending on the type of your system, you may design either sequence diagrams or statediagrams. Specifically, sequence diagrams are suitable for data-driven systems, and state diagrams are good for event-driven systems. Note that it is also possible to have both, becauseit might be possible that certain functionalities of your system is event-driven, but others aredata-driven."
+
+------
