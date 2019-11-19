@@ -7,4 +7,4 @@ Derek Cheung
 William Harer
 
 # Project status:
-Design phase
+Development phase
