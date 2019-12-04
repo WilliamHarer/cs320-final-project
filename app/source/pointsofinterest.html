@@ -3,27 +3,28 @@
 <head>
   <title>Points of Interest</title>
   <link type="text/css" rel="stylesheet" href="styles/style.css" />
+  <link type="text/css" rel="stylesheet" href="semantic/semantic.css" />
+  <div class="ui menu">
+    <div class="header item">
+      WSUV Interactive Map
+    </div>
+    <a class="item" href="index.html">
+      Home
+    </a>
+    <a class="item" href="navigation.html">
+      Navigation
+    </a>
+    <a class="item" href="cardioroutes.html">
+      Cardio Routes
+    </a>
+    <a class="item active" href="pointsofinterest.html">
+      Points of Interest
+    </a>
+  </div>
 </head>
 <body>
-<h3>WSUV Map - Points of Interest</h3>
 <div id="map"></div>
-<script>
-  function initMap() {
-    var wsuv = {lat: 45.731543, lng: -122.636275};
-    var map = new google.maps.Map(
-        document.getElementById('map'), {
-          zoom: 16,
-          center: wsuv,
-          zoomControl: false,
-          mapTypeControl: false,
-          streetViewControl: false,
-          rotateControl: false,
-          scaleControl: false,
-          fullscreenControl: false,
-          gestureHandling: 'none'
-        });
-  }
-</script>
+<script src="scripts/pointsofinterest.js"></script>
 <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCP0EhGZFvTPTizlHDQsOLb-hobahn1ZiY&callback=initMap">
 </script>
